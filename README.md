@@ -1,8 +1,8 @@
-# 本项目采集 CloudFlare 官方IP 和 民间反代理CloudFlare的IP
+# 本项目采集 CloudFlare 官方IP 和 反代CloudFlare的IP
  
  
 <details>
-  <summary>免责说明：CF_HK_US_EU_IP</summary>
+  <summary>免责说明：使用本服务将被视为对本免责声明的接受和遵守。</summary>
 
 1. 本服务仅面向非大陆地区用户，大陆地区用户在使用时需自行承担因法律法规限制可能带来的所有风险及后果。
 2. CF_HK_US_EU_IP 的数据源包括但不限于互联网. 开放数据库及其他公开网络资源，用户应自行核实数据来源的合法性和可靠性。
